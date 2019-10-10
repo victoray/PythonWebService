@@ -1,0 +1,5 @@
+# Project exclude paths
+/venv/
+.pytest_cache/
+test.py
+mykeyfile.asc
